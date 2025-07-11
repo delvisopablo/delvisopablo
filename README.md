@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Pablo del Viso
 
-**Estudiante de ADE Tecnológico + Ingeniería Informática**  
+**Graduado en ADE Tecnológico + Ingeniería Informática**  
 📍 Salamanca, España | 💻 Desarrollador fullstack | 🧠 Apasionado de la organización, la tecnología y las ideas con propósito.
 
 ---
@@ -28,7 +28,7 @@ También he creado asistentes educativos con IA y participé en hackatones unive
 
 ## 📂 Proyectos destacados
 
-### 🟢 [Nenúfar (en desarrollo)](https://github.com/tu-repo-nenufar)
+### 🟢 [Nenúfar (en desarrollo)]
 > Plataforma gamificada que conecta negocios locales con usuarios. Sistema de reseñas, reservas, logros, promociones y un universo narrativo propio.
 
 ---
@@ -37,9 +37,8 @@ También he creado asistentes educativos con IA y participé en hackatones unive
 
 - [LinkedIn](https://linkedin.com/in/pablodelvisogomez)  
 - Email: delvisopablo@gmail.com  
-- Disponible para proyectos, colaboraciones o simplemente para charlar sobre ideas con propósito.
+- Disponible para proyectos, colaboraciones o simplemente para charlar sobre ideas que molen un poco, para hacer que acaben siendo guays.
 
 ---
 
-> *"Las buenas ideas no valen nada si no se organizan bien." – un Pablo bastante organizado*
 
