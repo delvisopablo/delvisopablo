@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Pablo del Viso
 
 **Graduado en ADE Tecnológico + Ingeniería Informática**  
-📍 Salamanca, España | 💻 Desarrollador fullstack | 🧠 Apasionado de la organización, la tecnología y las ideas con propósito.
+📍 España | 💻 Desarrollador fullstack | 🧠 Apasionado del caos, la tecnología y las ideas con propósito.
 
 ---
 
@@ -11,7 +11,7 @@ Me gusta construir cosas útiles.
 Soy un perfil híbrido entre lo técnico y lo estratégico: programo, organizo y diseño soluciones que tengan impacto real. Me muevo especialmente bien en entornos de caos creativo (equipos, startups, educación, etc.).
 
 Actualmente desarrollo **Nenúfar**, una startup personal que conecta usuarios con negocios locales usando tecnología, gamificación y branding digital.  
-También he creado asistentes educativos con IA y participé en hackatones universitarios con buenos resultados.
+
 
 ---
 
