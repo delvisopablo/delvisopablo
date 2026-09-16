@@ -1,44 +1,78 @@
-# 👋 ¡Hola! Soy Pablo del Viso
+<div align="center">
 
-**Graduado en ADE Tecnológico + Ingeniería Informática**  
-📍 España | 💻 Desarrollador fullstack | 🧠 Apasionado del caos, la tecnología y las ideas con propósito.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" width="100%" alt="Pablo del Viso · Desarrollo fullstack, producto e inteligencia artificial">
+</picture>
 
----
+### Código, ideas y unas cuantas piezas por encajar.
 
-## 🚀 Sobre mí
+**Desarrollo fullstack · Automatización con IA · Mentalidad de producto**
 
-Me gusta construir cosas útiles.  
-Soy un perfil híbrido entre lo técnico y lo estratégico: programo, organizo y diseño soluciones que tengan impacto real. Me muevo especialmente bien en entornos de caos creativo (equipos, startups, educación, etc.).
+[LinkedIn](https://linkedin.com/in/pablodelvisogomez) · [Hablemos](mailto:delvisopablo@gmail.com) · [Mis repositorios](https://github.com/delvisopablo?tab=repositories)
 
-Actualmente desarrollo **Nenúfar**, una startup personal que conecta usuarios con negocios locales usando tecnología, gamificación y branding digital.  
-
-
----
-
-## 🧰 Tecnologías y herramientas
-
-- **Frontend**: Angular 17, HTML, CSS, TypeScript  
-- **Backend**: NestJS, FastAPI, PostgreSQL, Prisma  
-- **IA & automatización**: OpenAI API, Python, prompt engineering  
-- **Dev & gestión**: Git, Docker, Notion, Slack, Trello, VS Code  
-- **Diseño UX/UI**: Figma, Canva  
-- **Otras**: WordPress, Google Workspace, Firebase (básico)
+</div>
 
 ---
 
-## 📂 Proyectos destacados
+## Hola, soy Pablo 👋
 
-### 🟢 [Nenúfar (en desarrollo)]
-> Plataforma gamificada que conecta negocios locales con usuarios. Sistema de reseñas, reservas, logros, promociones y un universo narrativo propio.
+Me gusta convertir ideas en cosas que se puedan usar. Combino **ADE Tecnológico y formación en Informática** para conectar la parte técnica con el negocio: entender el problema, diseñar la solución y construirla de principio a fin.
+
+- 🌱 Desarrollo **Nenúfar**, una plataforma para descubrir negocios locales con reseñas y gamificación.
+- 🧩 Me divierte crear interfaces con personalidad: desde un portfolio con forma de **cubo de Rubik** hasta juegos sobre Pokémon.
+- 🤖 Trabajo con **IA y automatización**, integrando APIs y flujos con n8n para simplificar tareas.
+- 🔧 Me gusta conectar las piezas: frontend, backend, bases de datos y despliegue.
+- 🎬 Fuera del código: cine, series, videojuegos y cacharrear con Raspberry Pi.
+
+## Mi caja de herramientas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,react,nodejs,nestjs,postgres,prisma,git,docker,solidity,figma&amp;perline=6" alt="Angular, TypeScript, JavaScript, React, Node.js, NestJS, PostgreSQL, Prisma, Git, Docker, Solidity y Figma">
+
+</div>
+
+| Área | Tecnologías y herramientas |
+| :--- | :--- |
+| **Frontend y móvil** | Angular · TypeScript · React Native · Expo |
+| **Backend y datos** | NestJS · Node.js · PostgreSQL · Prisma · API REST · JWT |
+| **IA y automatización** | OpenAI API · n8n · Python · Integración de APIs |
+| **Interfaces y movimiento** | Figma · Anime.js · Three.js · GSAP |
+| **Entrega e integraciones** | Git · GitHub · Vercel · Railway · Docker · Postman |
+| **Web3 y hardware** | Solidity · Ethereum Sepolia · ethers.js · NFC · Raspberry Pi |
+
+## Proyectos con los que voy encajando piezas
+
+| Proyecto | Qué estoy construyendo | Piezas principales |
+| :--- | :--- | :--- |
+| **🌱 [Nenúfar](https://github.com/delvisopablo/nenufar)** | Descubrimiento de negocios locales, reseñas y gamificación. | Angular · NestJS · PostgreSQL |
+| **🧩 Rubikfolio** | Un portfolio interactivo inspirado en un cubo de Rubik, con navegación y animaciones 3D. | Interfaces · Anime.js · Interacción 3D |
+| **🎮 PokeListillos** | Pokédex, juego de adivinar Pokémon y ranking de jugadores. | Angular · API REST · Gamificación |
+| **🏠 Casita** | Una aplicación de presencia familiar mediante NFC. | React Native · Expo · NestJS · NFC |
+| **♻️ RecycleToken** | Un proyecto de token ERC-20 en la red de pruebas Sepolia. | Solidity · NestJS · Angular · MetaMask |
+
+<sub>Los enlaces de código apuntan a repositorios públicos; algunos proyectos todavía no tienen código público enlazado.</sub>
+
+## Cómo me gusta trabajar
+
+**Entender el problema → Diseñar algo útil → Construirlo → Probarlo → Mejorarlo.**
+
+Me interesa tanto cómo funciona una aplicación como por qué alguien querría usarla. Disfruto uniendo desarrollo, experiencia de usuario y visión de negocio, con espacio para experimentar por el camino.
 
 ---
 
-## 📫 ¿Hablamos?
+<div align="center">
 
-- [LinkedIn](https://linkedin.com/in/pablodelvisogomez)  
-- Email: delvisopablo@gmail.com  
-- Disponible para proyectos, colaboraciones o simplemente para charlar sobre ideas que molen un poco, para hacer que acaben siendo guays.
+### ¿Tienes una idea que merece salir del bloc de notas?
 
----
+Hablemos de desarrollo, automatización o de ese proyecto que llevas tiempo queriendo montar.
 
+**[LinkedIn](https://linkedin.com/in/pablodelvisogomez) · [delvisopablo@gmail.com](mailto:delvisopablo@gmail.com)**
 
+<sub>Hecho con curiosidad y ganas de encajar la siguiente pieza.</sub>
+
+</div>
+
+<!-- Inspiración de formato: https://github.com/emmi-lili/emmi-lili.
+     Textos y gráficos originales para Pablo del Viso. -->
