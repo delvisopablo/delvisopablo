@@ -1,5 +1,4 @@
-
-<img width="1200" height="620" alt="pablo-matrix-ascii" src="https://github.com/user-attachments/assets/5682e7e2-b1ec-4476-8eb9-964e6a2b332d" />
+<img src="./pablo-matrix-ascii.gif" width="100%" alt="Pablo del Viso">
 
 <div align="center">
 
