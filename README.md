@@ -16,11 +16,11 @@
 
 Me gusta convertir ideas en cosas que se puedan usar. Combino **ADE Tecnológico y formación en Informática** para conectar la parte técnica con el negocio: entender el problema, diseñar la solución y construirla de principio a fin.
 
-- 🌱 Desarrollo **Nenúfar**, una plataforma para descubrir negocios locales con reseñas y gamificación.
-- 🧩 Me divierte crear interfaces con personalidad: desde un portfolio con forma de **cubo de Rubik** hasta juegos sobre Pokémon.
-- 🤖 Trabajo con **IA y automatización**, integrando APIs y flujos con n8n para simplificar tareas.
-- 🔧 Me gusta conectar las piezas: frontend, backend, bases de datos y despliegue.
-- 🎬 Fuera del código: cine, series, videojuegos y cacharrear con Raspberry Pi.
+- Desarrollo **Nenúfar**, una plataforma para descubrir negocios locales con reseñas y gamificación.
+- Me divierte crear interfaces con personalidad: desde un portfolio con forma de **cubo de Rubik** hasta juegos sobre Pokémon.
+- Trabajo con **IA y automatización**, integrando APIs y flujos con n8n para simplificar tareas.
+- Me gusta conectar las piezas: frontend, backend, bases de datos y despliegue.
+- Fuera del código: cine, series, videojuegos y cacharrear con Raspberry Pi.
 
 ## Mi caja de herramientas
 
@@ -43,11 +43,11 @@ Me gusta convertir ideas en cosas que se puedan usar. Combino **ADE Tecnológico
 
 | Proyecto | Qué estoy construyendo | Piezas principales |
 | :--- | :--- | :--- |
-| **🌱 [Nenúfar](https://github.com/delvisopablo/nenufar)** | Descubrimiento de negocios locales, reseñas y gamificación. | Angular · NestJS · PostgreSQL |
-| **🧩 Rubikfolio** | Un portfolio interactivo inspirado en un cubo de Rubik, con navegación y animaciones 3D. | Interfaces · Anime.js · Interacción 3D |
-| **🎮 PokeListillos** | Pokédex, juego de adivinar Pokémon y ranking de jugadores. | Angular · API REST · Gamificación |
-| **🏠 Casita** | Una aplicación de presencia familiar mediante NFC. | React Native · Expo · NestJS · NFC |
-| **♻️ RecycleToken** | Un proyecto de token ERC-20 en la red de pruebas Sepolia. | Solidity · NestJS · Angular · MetaMask |
+| ** [Nenúfar](https://github.com/delvisopablo/nenufar)** | Descubrimiento de negocios locales, reseñas y gamificación. | Angular · NestJS · PostgreSQL |
+| ** Rubikfolio** | Un portfolio interactivo inspirado en un cubo de Rubik, con navegación y animaciones 3D. | Interfaces · Anime.js · Interacción 3D |
+| ** PokeListillos** | Pokédex, juego de adivinar Pokémon y ranking de jugadores. | Angular · API REST · Gamificación |
+| ** Casita** | Una aplicación de presencia familiar mediante NFC. | React Native · Expo · NestJS · NFC |
+| ** RecycleToken** | Un proyecto de token ERC-20 en la red de pruebas Sepolia. | Solidity · NestJS · Angular · MetaMask |
 
 <sub>Los enlaces de código apuntan a repositorios públicos; algunos proyectos todavía no tienen código público enlazado.</sub>
 
