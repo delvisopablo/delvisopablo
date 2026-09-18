@@ -1,77 +1,75 @@
 <div align="center">
 
-<img src="./pablo-matrix-ascii.gif" width="1200" alt="Pablo del Viso — desarrollo fullstack, producto e IA.">
+<img src="./pablo-matrix-ascii.gif" width="100%" alt="Pablo del Viso · Desarrollo fullstack, producto e inteligencia artificial">
 
-**Ideas que acaban funcionando.**
+### Código, ideas y unas cuantas piezas por encajar.
 
-[LinkedIn](https://www.linkedin.com/in/pablodelvisogomez) · [Hablemos](mailto:delvisogomezpablo@gmail.com) · [Explorar código](https://github.com/delvisopablo?tab=repositories)
+<img src="./assets/roles-animados.svg" width="100%" alt="Desarrollador fullstack · Desarrollador frontend · Desarrollador backend · Desarrollador móvil · Automatización con IA · Desarrollo de producto digital">
+
+[LinkedIn](https://linkedin.com/in/pablodelvisogomez) · [Hablemos](mailto:delvisogomezpablo@gmail.com) · [Mis repositorios](https://github.com/delvisopablo?tab=repositories)
 
 </div>
 
 ---
 
-## 🟩 `whoami`
+## Hola, soy Pablo 👋
 
-Soy **Pablo del Viso**. Me gusta pasar del «¿y si…?» a algo que puedas abrir, tocar y usar.
+Me gusta convertir ideas en cosas que se puedan usar. Combino **ADE Tecnológico y formación en Informática** para conectar la parte técnica con el negocio: entender el problema, diseñar la solución y construirla de principio a fin.
 
-Combino **ADE Tecnológico y formación en Informática** para conectar desarrollo y negocio. Me interesa entender qué necesita una persona, diseñar cómo resolverlo y construir las piezas: interfaz, API, datos y despliegue.
+- 🌱 Desarrollo **Nenúfar**, una plataforma para descubrir negocios locales con reseñas y gamificación.
+- 🧩 Me divierte crear interfaces con personalidad: desde un portfolio con forma de **cubo de Rubik** hasta juegos sobre Pokémon.
+- 🤖 Trabajo con **IA y automatización**, integrando APIs y flujos con n8n para simplificar tareas.
+- 🔧 Me gusta conectar las piezas: frontend, backend, bases de datos y despliegue.
+- 🎬 Fuera del código: cine, series, videojuegos y cacharrear con Raspberry Pi.
 
-Ahora estoy dando forma a **Nenúfar**, experimentando con interfaces en **Rubikfolio** y explorando automatizaciones con **IA y n8n**.
+## Mi caja de herramientas
 
-## 🟦 `ls proyectos/`
+<div align="center">
 
-| Proyecto | La idea | Con qué lo construyo |
+<img src="https://skillicons.dev/icons?i=angular,ts,js,react,nodejs,nestjs,postgres,prisma,git,docker,solidity,figma&amp;perline=6" alt="Angular, TypeScript, JavaScript, React, Node.js, NestJS, PostgreSQL, Prisma, Git, Docker, Solidity y Figma">
+
+</div>
+
+| Área | Tecnologías y herramientas |
+| :--- | :--- |
+| **Frontend y móvil** | Angular · TypeScript · React Native · Expo |
+| **Backend y datos** | NestJS · Node.js · PostgreSQL · Prisma · API REST · JWT |
+| **IA y automatización** | OpenAI API · n8n · Python · Integración de APIs |
+| **Interfaces y movimiento** | Figma · Anime.js · Three.js · GSAP |
+| **Entrega e integraciones** | Git · GitHub · Vercel · Railway · Docker · Postman |
+| **Web3 y hardware** | Solidity · Ethereum Sepolia · ethers.js · NFC · Raspberry Pi |
+
+## Proyectos con los que voy encajando piezas
+
+| Proyecto | Qué estoy construyendo | Piezas principales |
 | :--- | :--- | :--- |
-| **🌱 [Nenúfar](https://github.com/delvisopablo/nenufar)** | Descubrir negocios locales a través de reseñas y gamificación. | Angular · NestJS · PostgreSQL · Prisma |
-| **🧩 Rubikfolio** | Un portfolio que se gira, se desordena y se desmonta como un cubo de Rubik. | Anime.js · Interacción 3D · Diseño de interfaces |
-| **🎮 PokeListillos** | Una Pokédex con retos para adivinar Pokémon y ranking de jugadores. | Angular · API REST · Gamificación |
+| **🌱 [Nenúfar](https://github.com/delvisopablo/nenufar)** | Descubrimiento de negocios locales, reseñas y gamificación. | Angular · NestJS · PostgreSQL |
+| **🧩 Rubikfolio** | Un portfolio interactivo inspirado en un cubo de Rubik, con navegación y animaciones 3D. | Interfaces · Anime.js · Interacción 3D |
+| **🎮 PokeListillos** | Pokédex, juego de adivinar Pokémon y ranking de jugadores. | Angular · API REST · Gamificación |
+| **🏠 Casita** | Una aplicación de presencia familiar mediante NFC. | React Native · Expo · NestJS · NFC |
+| **♻️ RecycleToken** | Un proyecto de token ERC-20 en la red de pruebas Sepolia. | Solidity · NestJS · Angular · MetaMask |
 
-<details>
-<summary><b>Más cosas que estoy probando ↓</b></summary>
+<sub>Los enlaces de código apuntan a repositorios públicos; algunos proyectos todavía no tienen código público enlazado.</sub>
 
-- **Casita** — Una app de presencia familiar con NFC. React Native, Expo, NestJS y PostgreSQL.
-- **RecycleToken** — Un token ERC-20 en Sepolia para explorar incentivos al reciclaje. Solidity, Angular, NestJS y MetaMask.
-- **Hardware y automatización** — Raspberry Pi, integraciones y pequeños experimentos para llevar el código fuera de la pantalla.
+## Cómo me gusta trabajar
 
-</details>
+**Entender el problema → Diseñar algo útil → Construirlo → Probarlo → Mejorarlo.**
 
-## 🟨 `cat stack.yml`
-
-```yaml
-frontend:       [Angular, TypeScript]
-mobile:         [React Native, Expo]
-backend:        [NestJS, Node.js, REST, JWT]
-data:           [PostgreSQL, Prisma]
-automation:     [n8n, Python, OpenAI API]
-interaction:    [Anime.js, Three.js, GSAP]
-workflow:       [Git, GitHub, Figma, Postman]
-deploy:         [Vercel, Railway]
-```
-
-## 🟧 `cat forma-de-trabajar.txt`
-
-**Entender → Construir → Probar → Volver a pensar.**
-
-Me gusta trabajar de principio a fin: desde la idea y el modelo de negocio hasta los detalles de la interfaz. Automatizo lo repetitivo y dejo espacio para experimentar. Si una solución no encaja, la desmonto y pruebo otra.
-
-## 🟥 `cd fuera-del-editor/`
-
-Cine, series, videojuegos y cacharreo con Raspberry Pi. También planes con amigos y conversaciones que empiezan sin ninguna intención de convertirse en un proyecto.
+Me interesa tanto cómo funciona una aplicación como por qué alguien querría usarla. Disfruto uniendo desarrollo, experiencia de usuario y visión de negocio, con espacio para experimentar por el camino.
 
 ---
 
 <div align="center">
 
-### ¿Montamos algo que merezca la pena?
+### ¿Tienes una idea que merece salir del bloc de notas?
 
-Me interesan los proyectos que mezclan **desarrollo, producto y automatización**.
+Hablemos de desarrollo, automatización o de ese proyecto que llevas tiempo queriendo montar.
 
-**[LinkedIn](https://www.linkedin.com/in/pablodelvisogomez) · [delvisogomezpablo@gmail.com](mailto:delvisogomezpablo@gmail.com)**
+**[LinkedIn](https://linkedin.com/in/pablodelvisogomez) · [delvisogomezpablo@gmail.com](mailto:delvisogomezpablo@gmail.com)**
 
-<br>
-
-<samp>Destruir. Crear. Volver a imaginar.</samp>
-
-🟦 🟩 🟨 🟥 🟧 ⬜
+<sub>Hecho con curiosidad y ganas de encajar la siguiente pieza.</sub>
 
 </div>
+
+<!-- Inspiración de formato: https://github.com/emmi-lili/emmi-lili.
+     Textos y gráficos originales para Pablo del Viso. -->
