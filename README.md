@@ -41,13 +41,13 @@ Me gusta convertir ideas en cosas que se puedan usar. Combino **ADE Tecnológico
 
 ## Proyectos con los que voy encajando piezas
 
-| Proyecto | Qué estoy construyendo | Piezas principales |
+| Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-|  [Nenúfar] (https://github.com/delvisopablo/nenufar) | Descubrimiento de negocios locales, reseñas y gamificación. | Angular · NestJS · PostgreSQL |
-|  [Rubikfolio] (https://github.com/delvisopablo/pablodelviso-folio) | Un portfolio interactivo inspirado en un cubo de Rubik, con navegación y animaciones 3D. | Interfaces · Anime.js · Interacción 3D |
-|  [PokeListillos] (https://github.com/delvisopablo/PokeListillos)  | Pokédex, juego de adivinar Pokémon y ranking de jugadores. | Angular · API REST · Gamificación |
-|  Casita  | Una aplicación móvil (aún en desarrollo) de presencia familiar mediante NFC. | React Native · Expo · NestJS · NFC |
-|  [RecycleToken] (https://github.com/delvisopablo/proyecto-baterias) | Un proyecto de token ERC-20 en la red de pruebas Sepolia. | Solidity · NestJS · Angular · MetaMask |
+| [Nenúfar](https://github.com/delvisopablo/nenufar) | Descubrimiento de negocios locales, reseñas y gamificación. | Angular · NestJS · PostgreSQL |
+| [Rubikfolio](https://github.com/delvisopablo/pablodelviso-folio) | Un portfolio interactivo inspirado en un cubo de Rubik, con navegación y animaciones 3D. | Interfaces · Anime.js · Interacción 3D |
+| [PokeListillos](https://github.com/delvisopablo/PokeListillos) | Pokédex, juego de adivinar Pokémon y ranking de jugadores. | Angular · API REST · Gamificación |
+| Casita | Una aplicación móvil (aún en desarrollo) de presencia familiar mediante NFC. | React Native · Expo · NestJS · NFC |
+| [RecycleToken](https://github.com/delvisopablo/proyecto-baterias) | Un proyecto de token ERC-20 en la red de pruebas Sepolia. | Solidity · NestJS · Angular · MetaMask |
 
 <sub>Los enlaces de código apuntan a repositorios públicos; algunos proyectos todavía no tienen código público enlazado.</sub>
 
