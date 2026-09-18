@@ -1,4 +1,4 @@
-<img src="./pablo-matrix-ascii.gif" width="100%" alt="Pablo del Viso">
+
 
 <div align="center">
 
