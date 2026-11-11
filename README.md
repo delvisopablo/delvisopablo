@@ -6,7 +6,7 @@
 
 <img src="./assets/roles-animados.svg" width="100%" alt="Desarrollador fullstack · Desarrollador frontend · Desarrollador backend · Desarrollador móvil · Automatización con IA · Desarrollo de producto digital">
 
-[LinkedIn](https://linkedin.com/in/pablodelvisogomez) · [Hablemos](mailto:delvisogomezpablo@gmail.com) · [Mis repositorios](https://github.com/delvisopablo?tab=repositories)
+[Portfolio](https://pablodelviso.com) · [LinkedIn](https://linkedin.com/in/pablodelvisogomez) · [Hablemos](mailto:delvisogomezpablo@gmail.com) · [Repositorios](https://github.com/delvisopablo?tab=repositories)
 
 </div>
 
@@ -14,48 +14,84 @@
 
 ## Hola, soy Pablo 👋
 
-Me gusta convertir ideas en cosas que se puedan usar. Combino **ADE Tecnológico e Ingeniería Informática** para conectar la parte técnica con el negocio: entender el problema, diseñar la solución y construirla de principio a fin.
+Me gusta convertir ideas en cosas que se puedan usar. Mi formación en **ADE Tecnológico e Ingeniería Informática** me permite moverme entre producto, negocio y desarrollo: entender un problema, plantear una solución y construirla de principio a fin.
 
-- Desarrollo **Nenúfar**, una plataforma para descubrir negocios locales con reseñas y gamificación.
-- Me divierte crear interfaces con personalidad: desde un portfolio con forma de **cubo de Rubik** hasta juegos sobre Pokémon.
-- Trabajo con **IA y automatización**, integrando APIs y flujos con n8n para simplificar tareas.
-- Me gusta conectar las piezas: frontend, backend, bases de datos y despliegue.
-- Fuera del código: cine, series, videojuegos y cacharrear con Raspberry Pi.
+- Desarrollo productos propios como **Nenúfar**, **Brocabulario** o **BatToken**.
+- Me divierte crear interfaces con personalidad: desde un portfolio construido alrededor de un **cubo de Rubik** hasta una web deliberadamente absurda llena de minijuegos.
+- Trabajo con **IA y automatización**, conectando APIs, n8n, email, datos y procesos.
+- Desarrollo tanto frontend como backend, bases de datos, autenticación, integraciones y despliegue.
+- También experimento con **blockchain, NFC, ESP32 y Raspberry Pi** cuando una idea necesita salir del navegador.
+- Fuera del código: cine, series, videojuegos, ajedrez y cacharrear con cualquier cosa que tenga botones.
 
 ## Mi caja de herramientas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,react,nodejs,nestjs,postgres,prisma,git,docker,solidity,figma&amp;perline=6" alt="Angular, TypeScript, JavaScript, React, Node.js, NestJS, PostgreSQL, Prisma, Git, Docker, Solidity y Figma">
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,nodejs,nestjs,postgres,prisma,python,git,docker,solidity,figma&perline=7" alt="Next.js, React, Angular, TypeScript, JavaScript, Node.js, NestJS, PostgreSQL, Prisma, Python, Git, Docker, Solidity y Figma">
 
 </div>
 
 | Área | Tecnologías y herramientas |
 | :--- | :--- |
-| **Frontend y móvil** | Angular · TypeScript · React Native · Expo |
-| **Backend y datos** | NestJS · Node.js · PostgreSQL · Prisma · API REST · JWT |
-| **IA y automatización** | OpenAI API · n8n · Python · Integración de APIs |
+| **Frontend y móvil** | Next.js · React · Angular · TypeScript · React Native · Expo |
+| **Backend y datos** | Node.js · NestJS · Express · PostgreSQL · Prisma · Drizzle · API REST · JWT |
+| **IA y automatización** | OpenAI API · n8n · Python · Webhooks · Integración de APIs |
 | **Interfaces y movimiento** | Figma · Anime.js · Three.js · GSAP |
-| **Entrega e integraciones** | Git · GitHub · Vercel · Railway · Docker · Postman |
-| **Web3 y hardware** | Solidity · Ethereum Sepolia · ethers.js · NFC · Raspberry Pi |
+| **Entrega e infraestructura** | Git · GitHub · Vercel · Railway · Docker · Postman |
+| **Web3 y hardware** | Solidity · Hardhat · Ethereum Sepolia · ethers.js · NFC · ESP32 · Raspberry Pi |
 
 ## Proyectos con los que voy encajando piezas
 
-| Proyecto | Descripción | Tecnologías |
+| Proyecto | Qué es | Algunas piezas |
 | :--- | :--- | :--- |
-| [Nenúfar](https://github.com/delvisopablo/nenufar) | Descubrimiento de negocios locales, reseñas y gamificación. | Angular · NestJS · PostgreSQL |
-| [Rubikfolio](https://github.com/delvisopablo/pablodelviso-folio) | Un portfolio interactivo inspirado en un cubo de Rubik, con navegación y animaciones 3D. | Interfaces · Anime.js · Interacción 3D |
-| [PokeListillos](https://github.com/delvisopablo/PokeListillos) | Pokédex, juego de adivinar Pokémon y ranking de jugadores. | Angular · API REST · Gamificación |
-| Casita | Una aplicación móvil (aún en desarrollo) de presencia familiar mediante NFC. | React Native · Expo · NestJS · NFC |
-| [RecycleToken](https://github.com/delvisopablo/proyecto-baterias) | Un proyecto de token ERC-20 en la red de pruebas Sepolia. | Solidity · NestJS · Angular · MetaMask |
+| [**Nenúfar ↗**](https://nenufar.vercel.app/) | Plataforma para descubrir negocios locales mediante reseñas, comunidad y gamificación. Un proyecto donde producto, tecnología y modelo de negocio tienen que funcionar juntos. | Angular · NestJS · PostgreSQL · Producto |
+| [**Rubikfolio ↗**](https://pablodelviso.com/) | Mi portfolio convertido en un cubo de Rubik interactivo. Cada una de sus 54 casillas abre una experiencia diferente sobre proyectos, tecnología, negocio, intereses y mi forma de trabajar. | Next.js · React · Anime.js · Interacción 3D |
+| [**PokeListillos ↗**](https://pokelistillos.xyz/) | Proyecto alrededor del universo Pokémon con Pokédex, juegos, rankings e interacción con datos de la PokéAPI. | Angular · TypeScript · APIs · Gamificación |
+| [**Brocabulario ↗**](https://brocabulario.es/) | Diccionario colaborativo de jerga y cultura de internet en español, con palabras, propuestas, perfiles, grupos, historias y contenido conectado entre sí. | Next.js · React · PostgreSQL · Drizzle |
+| [**BatToken ↗**](https://battoken.vercel.app/) | Sistema de recompensas para incentivar el reciclaje de baterías. Los depósitos validados generan tokens BTT mediante un smart contract desplegado en Ethereum Sepolia. | Angular · Express · PostgreSQL · Solidity · Hardhat · ethers.js |
+| [**Puta Mierda ↗**](https://putamierda.es/) | Un laboratorio web deliberadamente absurdo para perder el tiempo: Chooser, minijuegos, experimentos de interfaz y un montón de decisiones de diseño cuestionables tomadas a propósito. | Minijuegos web · Interacción · Diseño experimental |
+| [**Cumpleaños.digital ↗**](https://cumpleanos.digital/) | Demo de un servicio para crear experiencias de cumpleaños digitales, con personalización, configurador y una gincana interactiva. | React · TypeScript · Vite · Tailwind · Leaflet |
+| **Casita** | Aplicación móvil en desarrollo para registrar presencia familiar mediante NFC y conectar el mundo físico con una app y un backend propio. | React Native · Expo · NestJS · PostgreSQL · NFC |
 
-<sub>Los enlaces de código apuntan a repositorios públicos; algunos proyectos todavía no tienen código público enlazado.</sub>
+<sub>Algunos proyectos tienen el código público y otros mantienen el repositorio privado. Cuando existe una versión desplegada, el enlace lleva directamente al proyecto para poder probarlo.</sub>
 
-## Cómo me gusta trabajar
+## No me interesa solo que funcione
 
-**Entender el problema → Diseñar algo útil → Construirlo → Probarlo → Mejorarlo.**
+Me gusta trabajar en la intersección entre **tecnología, producto y negocio**.
 
-Me interesa tanto cómo funciona una aplicación como por qué alguien querría usarla. Disfruto uniendo desarrollo, experiencia de usuario y visión de negocio, con espacio para experimentar por el camino.
+```text
+Entender el problema
+        ↓
+Reducirlo a lo importante
+        ↓
+Diseñar una solución
+        ↓
+Construirla
+        ↓
+Probarla
+        ↓
+Romper alguna cosa
+        ↓
+Arreglarla
+        ↓
+Publicarla
+        ↓
+Volver a mejorarla
+```
+
+Me interesa tanto cómo funciona una aplicación como **por qué alguien querría utilizarla**.
+
+Por eso suelo acabar tocando varias capas del mismo proyecto: interfaz, backend, datos, experiencia de usuario, automatizaciones, infraestructura y, cuando hace falta, incluso hardware.
+
+## Ahora mismo estoy construyendo
+
+Siempre tengo alguna cosa a medio cocinar.
+
+Algunas empiezan como una idea de negocio.  
+Otras porque quiero aprender una tecnología.  
+Y otras simplemente porque pienso: **“esto estaría guapo si existiese”**.
+
+Puedes encontrarlas en [**pablodelviso.com**](https://pablodelviso.com/).
 
 ---
 
@@ -63,11 +99,11 @@ Me interesa tanto cómo funciona una aplicación como por qué alguien querría 
 
 ### ¿Tienes una idea que merece salir del bloc de notas?
 
-Hablemos de desarrollo, automatización o de ese proyecto que llevas tiempo queriendo montar.
+Puedo ayudarte a convertirla en una **landing, una web, una aplicación, una automatización o un producto digital completo**.
 
-**[LinkedIn](https://linkedin.com/in/pablodelvisogomez) · [delvisogomezpablo@gmail.com](mailto:delvisogomezpablo@gmail.com)**
+**[Ver mi portfolio](https://pablodelviso.com/) · [LinkedIn](https://linkedin.com/in/pablodelvisogomez) · [delvisogomezpablo@gmail.com](mailto:delvisogomezpablo@gmail.com)**
 
-<sub>Hecho con curiosidad y ganas de encajar la siguiente pieza.</sub>
+<sub>Hecho con curiosidad y unas cuantas piezas todavía por encajar.</sub>
 
 </div>
 
