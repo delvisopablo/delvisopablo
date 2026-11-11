@@ -14,7 +14,7 @@
 
 ## Hola, soy Pablo 👋
 
-Me gusta convertir ideas en cosas que se puedan usar. Combino **ADE Tecnológico y formación en Informática** para conectar la parte técnica con el negocio: entender el problema, diseñar la solución y construirla de principio a fin.
+Me gusta convertir ideas en cosas que se puedan usar. Combino **ADE Tecnológico e Ingeniería Informática** para conectar la parte técnica con el negocio: entender el problema, diseñar la solución y construirla de principio a fin.
 
 - Desarrollo **Nenúfar**, una plataforma para descubrir negocios locales con reseñas y gamificación.
 - Me divierte crear interfaces con personalidad: desde un portfolio con forma de **cubo de Rubik** hasta juegos sobre Pokémon.
