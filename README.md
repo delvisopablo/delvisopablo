@@ -93,6 +93,21 @@ Y otras simplemente porque pienso: **“esto estaría guapo si existiese”**.
 
 Puedes encontrarlas en [**pablodelviso.com**](https://pablodelviso.com/).
 
+## Una pieza cada día
+
+<div align="center">
+
+Construir, romper, aprender y volver a empezar.
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=delvisopablo&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=39FF14&fire=39FF14&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=39FF14&sideLabels=39FF14&dates=8B949E&locale=es&date_format=j%20M%5B%20Y%5D&card_width=850" width="100%" alt="Mi racha de contribuciones en GitHub">
+</a>
+
+<sub>La constancia también forma parte del código.</sub>
+
+</div>
+
+
 ---
 
 <div align="center">
